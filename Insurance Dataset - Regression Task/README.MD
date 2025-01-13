@@ -1,6 +1,7 @@
 # Insurance Cost Prediction using PySpark  
 
-This project demonstrates the application of **PySpark** for performing regression analysis on an **insurance dataset** to predict medical insurance costs based on various factors such as age, BMI, and smoking status.
+This project demonstrates the application of **PySpark** for performing regression analysis on an **insurance dataset** to predict medical insurance costs based on various factors such as age, BMI, and smoking status.  
+
 **NOTE: The aim of this project was to show power of PySpark in large scale preprocessing and ML Modelling. Absoulutly the output result is not good enough, and it needs hyperparameter tunning**
 ---
 
